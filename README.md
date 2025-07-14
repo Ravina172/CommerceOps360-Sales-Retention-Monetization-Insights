@@ -1,4 +1,4 @@
-# 📊 GrowthIQ: Simulated Shopify Strategy Dashboard  
+# CommerceOps360: Sales, Retention & Monetization Insights
 **Built to Demonstrate Readiness for the Senior Associate – Business Management Role**
 ![image](https://webandcrafts.com/_next/image?url=https%3A%2F%2Fadmin.wac.co%2Fuploads%2FWhat_Is_Shopify_and_How_Does_It_Work_Everything_You_Need_to_Know_1_77829d4974.jpg&w=4500&q=90)
 
