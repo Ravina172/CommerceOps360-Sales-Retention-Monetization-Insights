@@ -5,9 +5,9 @@
 
 ## 🧭 Project Background
 
-This project was developed as a **real-world business simulation** to demonstrate my readiness for the **Senior Associate - Business Management Track**. I assumed the responsibilities of a strategy and operations analyst working at an e-commerce company (Shopify) to build a Power BI dashboard that solves real challenges in user growth, monetization, and category strategy.
+This project was developed as a **real-world business simulation** to demonstrate my readiness for the **Data/Business Analyst**. I assumed the responsibilities of a strategy and operations analyst working at an e-commerce company (Shopify) to build a Power BI dashboard that solves real challenges in user growth, monetization, and category strategy.
 
-The goal was to reflect the kind of cross-functional thinking, analytical depth, and business impact expected in a Senior Associate role — as seen in dynamic companies.
+The goal was to reflect the kind of cross-functional thinking, analytical depth, and business impact expected in a Data/Business Analyst role — as seen in dynamic companies.
 
 ---
 
@@ -88,7 +88,7 @@ To solve this, I created a dashboard that acts as a **decision-support tool** fo
 
 ## 🔚 Final Note
 
-This project is my **self-initiated simulation of a real business scenario** — showcasing how I would approach challenges as a Senior Associate at a tech-first e-commerce company like Meesho. It demonstrates how I connect data with business, use tools like Power BI to solve strategic problems, and think across functions to drive growth.
+This project is my **self-initiated simulation of a real business scenario** — showcasing how I would approach challenges as a Data/Business Analyst. It demonstrates how I connect data with business, use tools like Power BI to solve strategic problems, and think across functions to drive growth.
 
 ## About-Me
 I’m a data enthusiast with a passion for transforming raw data into meaningful insights that drive business decisions. This project is part of my ongoing journey to deepen my skills in data analytics and engineering. I'm continuously learning and exploring areas like data warehousing, BI tools, and scalable pipeline design.
